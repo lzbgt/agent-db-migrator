@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Paid AI session DB migration review
+    url: https://x2.brucelu.top/dbmigrate/checkout/?source=github-issues-agent-db-migrator
+    about: Book a focused Go/SQLite migration review.
+  - name: Ask a pre-sales question
+    url: https://x2.brucelu.top/products/contact/?offer=dbmigrate&source=github-issues-agent-db-migrator
+    about: Confirm fit before checkout.
+  - name: Sample review
+    url: https://x2.brucelu.top/dbmigrate/sample/?source=github-issues-agent-db-migrator
+    about: See the shape of the paid deliverable.
